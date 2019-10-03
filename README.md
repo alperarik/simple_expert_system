@@ -1,5 +1,5 @@
 # simple_expert_system
-Animal prediction game with expert system (Questions and answers are Turkish)
+Animal name prediction game with expert system (Questions and answers are Turkish)
 
 This project written in Java and uses Prolog as rule engine. Also has swing GUI
 
